@@ -1,0 +1,6 @@
+rst.upload.link=Uploaded to %s
+rst.imgur.auth=Imgur account not linked, link it here %s
+rst.key.upload=Quick Screenshot Upload
+rst.key.delete=Delete Last Screenshot Upload
+
+rst.status.FAILED=Failed
